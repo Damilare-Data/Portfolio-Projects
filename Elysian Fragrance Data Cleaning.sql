@@ -1,4 +1,4 @@
---Bulk import of messydataset into the database for Cleaning and Expository Analysis
+--Bulk import of messydataset into the database for Cleaning and Exploratory Analysis
 
 CREATE TABLE Elysian (
 CustomerID VARCHAR(20),
